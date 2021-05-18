@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mounted App renders the correct html 1`] = `
+<div id="app">
+  <div id="data" class="row card-container">
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Bath Mat</div> <img id="hth-gingham-bath-mat-b3589" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Scallop Edge Bath Mat</div> <img id="hth-scallop-edge-bath-mat-b3587" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Shower Curtain</div> <img id="hth-gingham-shower-curtain-b3590" src="#">
+      <div class="price"> $80.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Oval Ikat Shower Curtain</div> <img id="oval-ikat-shower-curtain-b3591" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Organic Stripe Stitch Candlewick Shower Curtain</div> <img id="organic-stripe-stitch-candlewick-shower-curtain-b3108" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham &amp;amp; Stripe Bath Towels</div> <img id="hth-gingham-stripe-bath-towel-b3588" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg">
+      <div class="price"> $34.50</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Pedal Waste Bin</div> <img id="nova-pedal-waste-bin-b3583" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg">
+      <div class="price"> $110.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Ume Pedal Waste Bin</div> <img id="ume-pedal-waste-bin-b3586" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg">
+      <div class="price"> $85.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Toilet Brush</div> <img id="nova-toilet-brush-b3582" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg">
+      <div class="price"> $69.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Dylan Industrial Bed</div> <img id="dylan-industrial-bed-h8077" src="#">
+      <div class="price"> $1,399.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Bath Mat</div> <img id="hth-gingham-bath-mat-b3589" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Scallop Edge Bath Mat</div> <img id="hth-scallop-edge-bath-mat-b3587" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Shower Curtain</div> <img id="hth-gingham-shower-curtain-b3590" src="#">
+      <div class="price"> $80.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Oval Ikat Shower Curtain</div> <img id="oval-ikat-shower-curtain-b3591" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Organic Stripe Stitch Candlewick Shower Curtain</div> <img id="organic-stripe-stitch-candlewick-shower-curtain-b3108" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham &amp;amp; Stripe Bath Towels</div> <img id="hth-gingham-stripe-bath-towel-b3588" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg">
+      <div class="price"> $34.50</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Pedal Waste Bin</div> <img id="nova-pedal-waste-bin-b3583" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg">
+      <div class="price"> $110.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Ume Pedal Waste Bin</div> <img id="ume-pedal-waste-bin-b3586" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg">
+      <div class="price"> $85.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Toilet Brush</div> <img id="nova-toilet-brush-b3582" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg">
+      <div class="price"> $69.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Dylan Industrial Bed</div> <img id="dylan-industrial-bed-h8077" src="#">
+      <div class="price"> $1,399.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Bath Mat</div> <img id="hth-gingham-bath-mat-b3589" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Scallop Edge Bath Mat</div> <img id="hth-scallop-edge-bath-mat-b3587" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Shower Curtain</div> <img id="hth-gingham-shower-curtain-b3590" src="#">
+      <div class="price"> $80.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Oval Ikat Shower Curtain</div> <img id="oval-ikat-shower-curtain-b3591" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Organic Stripe Stitch Candlewick Shower Curtain</div> <img id="organic-stripe-stitch-candlewick-shower-curtain-b3108" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham &amp;amp; Stripe Bath Towels</div> <img id="hth-gingham-stripe-bath-towel-b3588" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg">
+      <div class="price"> $34.50</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Pedal Waste Bin</div> <img id="nova-pedal-waste-bin-b3583" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg">
+      <div class="price"> $110.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Ume Pedal Waste Bin</div> <img id="ume-pedal-waste-bin-b3586" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg">
+      <div class="price"> $85.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Toilet Brush</div> <img id="nova-toilet-brush-b3582" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg">
+      <div class="price"> $69.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Dylan Industrial Bed</div> <img id="dylan-industrial-bed-h8077" src="#">
+      <div class="price"> $1,399.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Bath Mat</div> <img id="hth-gingham-bath-mat-b3589" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Scallop Edge Bath Mat</div> <img id="hth-scallop-edge-bath-mat-b3587" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg">
+      <div class="price"> $40.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham Shower Curtain</div> <img id="hth-gingham-shower-curtain-b3590" src="#">
+      <div class="price"> $80.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Oval Ikat Shower Curtain</div> <img id="oval-ikat-shower-curtain-b3591" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Organic Stripe Stitch Candlewick Shower Curtain</div> <img id="organic-stripe-stitch-candlewick-shower-curtain-b3108" src="#">
+      <div class="price"> $90.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Heather Taylor Home Gingham &amp;amp; Stripe Bath Towels</div> <img id="hth-gingham-stripe-bath-towel-b3588" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg">
+      <div class="price"> $34.50</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Pedal Waste Bin</div> <img id="nova-pedal-waste-bin-b3583" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg">
+      <div class="price"> $110.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Ume Pedal Waste Bin</div> <img id="ume-pedal-waste-bin-b3586" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg">
+      <div class="price"> $85.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Nova Toilet Brush</div> <img id="nova-toilet-brush-b3582" src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg">
+      <div class="price"> $69.00</div>
+    </div>
+    <div class="card col-sm-12 col-md-4 custom-card">
+      <div class="title">Dylan Industrial Bed</div> <img id="dylan-industrial-bed-h8077" src="#">
+      <div class="price"> $1,399.00</div>
+    </div>
+  </div>
+  <div id="condition" class="overlay" style="display: none;">
+    <div id="text">
+      <div class="closeIcon"><span class="closetext">X</span></div>
+      <div id="myCarousel" data-ride="carousel" class="carousel slide">
+        <ol id="ind" class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" class="active"></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+          <li data-target="#carouselExampleIndicators" class=""></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="item active"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0362/heather-taylor-home-gingham-bath-mat-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0260/heather-taylor-home-scallop-edge-bath-mat-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202116/0258/heather-taylor-home-gingham-stripe-bath-towel-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0200/nova-pedal-waste-bin-1-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/ume-pedal-waste-bin-m.jpg" alt="slide"></div>
+          <div class="item"><img src="https://assets.weimgs.com/weimgs/ab/images/wcm/products/202117/0282/nova-toilet-brush-2-m.jpg" alt="slide"></div>
+          <div class="item"><img src="#" alt="slide"></div>
+        </div> <a href="#myCarousel" data-slide="prev" class="left carousel-control"><span class="glyphicon glyphicon-chevron-left"></span> <span class="sr-only">Previous</span></a> <a href="#myCarousel" data-slide="next" class="right carousel-control"><span class="glyphicon glyphicon-chevron-right"></span> <span class="sr-only">Next</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
